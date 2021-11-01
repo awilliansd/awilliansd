@@ -9,7 +9,6 @@
 ## My portfolio
 <div>
   <a href="https://awilliansd.github.io"><img src="https://img.shields.io/badge/Blog-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.nuget.org/packages/MetaphonePtBr/"><img src="https://img.shields.io/badge/MetaphonePtBr-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
 </div>
 
 ## My Skills
