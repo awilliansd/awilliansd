@@ -1,5 +1,7 @@
 ## Hi there! I'm Alessandro Willian 👋
 
+[![Visits](https://badges.pufler.dev/visits/awilliansd/awilliansd)](https://badges.pufler.dev)
+
 ## Some statistics and curiosities
 
 <p>
@@ -63,11 +65,3 @@
 <div>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
-
-## Some stats about me
-
-![Stats](https://github-readme-stats.vercel.app/api/?username=awilliansd&theme=blue-green)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awilliansd&theme=blue-green)
-
-[![Visits](https://badges.pufler.dev/visits/awilliansd/awilliansd)](https://badges.pufler.dev)
