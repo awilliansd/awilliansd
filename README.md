@@ -3,18 +3,18 @@
 ## Some statistics and curiosities
 
 <p>
-<a href="https://github.com/DyegoMaas/github-readme-stats">
+<a href="https://github.com/awilliansd/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=awilliansd&count_private=true&show_icons=true&custom_title=Alessandro's%20Github%20Stats&hide=issues&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=awilliansd&count_private=true&show_icons=true&custom_title=Alessandro's%20Github%20Stats&hide=issues&theme=blue-green"
     />
   </a>
 <a href="https://github.com/awilliansd/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=awilliansd&exclude_repo=blog,awilliansd.github.io&layout=compact&theme=dracula&langs_count=8"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=awilliansd&exclude_repo=blog,awilliansd.github.io&layout=compact&theme=blue-green&langs_count=8"
     />
 </a>
 </p>
