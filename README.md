@@ -18,7 +18,7 @@
     <img
       align="center"
       height="165"
-      width="320"
+      width="520"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=awilliansd&exclude_repo=blog,awilliansd.github.io&layout=compact&theme=blue-green&langs_count=8"
     />
 </a>
