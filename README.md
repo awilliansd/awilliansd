@@ -12,6 +12,8 @@
       src="https://github-readme-stats.vercel.app/api?username=awilliansd&count_private=true&show_icons=true&custom_title=Alessandro's%20Github%20Stats&hide=issues&theme=blue-green"
     />
   </a>
+</p>
+<p>
 <a href="https://github.com/awilliansd/github-readme-stats">
     <img
       align="center"
