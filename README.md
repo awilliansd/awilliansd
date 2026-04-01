@@ -4,21 +4,13 @@
 
 ## Some statistics and curiosities
 
-<p align="center">
-  <a href="https://github.com/awilliansd/github-readme-stats">
-    <img 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=awilliansd&show_icons=true&count_private=true&theme=blue-green&custom_title=Alessandro's%20Github%20Stats&hide=issues" 
-      alt="Alessandro's Github Stats" 
-    />
-  </a>
-  <a href="https://github.com/awilliansd/github-readme-stats">
-    <img 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=awilliansd&layout=compact&theme=blue-green&hide=blog,awilliansd.github.io&langs_count=8" 
-      alt="Top Languages" 
-    />
-  </a>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=awilliansd&show_icons=true&count_private=true&theme=blue-green&custom_title=Alessandro's%20Github%20Stats&hide=issues" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=awilliansd&layout=compact&theme=blue-green&hide=blog,awilliansd.github.io&langs_count=8" />
+</a>
 </p>
 
 ## How to reach me
